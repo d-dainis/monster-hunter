@@ -1,0 +1,12 @@
+[package]
+name = "monster-hunter"
+version = "0.1.0"
+authors = ["David Dainis <david.dainis@gmail.com"]
+edition = "2024"
+
+[dependencies]
+
+
+[lints.clippy]
+all = "warn"
+pedantic = "warn"
